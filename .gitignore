@@ -1,0 +1,8 @@
+old/
+*/submission
+*/target
+*/project/target
+*.class
+*/.idea
+calculator/web-ui/target/
+*.cache
